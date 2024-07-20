@@ -10,9 +10,7 @@ This project aims to build a tool that classifies a person's description of thei
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+
 
 ## Overview
 
