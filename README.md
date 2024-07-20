@@ -55,3 +55,11 @@ pip install seaborn
 * Model Training: Code to train a BERT model on the preprocessed data.
 * Evaluation: Evaluate the model's performance using accuracy, precision, recall, and F1-score.
 * Inference: Using the trained model to classify new inputs.
+
+### Dependencies
+* Python 3.x
+`transformers` library by Hugging Face
+`torch` (PyTorch)
+`pandas`
+`scikit-learn`
+`seaborn`
