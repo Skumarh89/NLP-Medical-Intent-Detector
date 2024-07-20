@@ -40,8 +40,13 @@ pip install scikit-learn
 pip install seaborn
 ```
 ## Usage
-* Clone the Repository: Clone this repository to your local machine using:
+1. Clone the Repository: Clone this repository to your local machine using:
   ```bash
   git clone https://github.com/Skumarh89/medical-intent-detector.git
   cd medical-intent-detector
   ```
+2. Open the Notebook: Open the Intent_detect_BERT.ipynb notebook in Google Colab.
+3. Run the Cells: Execute the cells sequentially. The notebook will guide you through setting up the environment, preprocessing data, training the model, and evaluating its performance.
+4. Inference: Use the trained model to classify new medical symptom descriptions.
+
+
