@@ -39,3 +39,8 @@ pip install pandas
 pip install scikit-learn
 pip install seaborn
 ```
+## Usage
+* Clone the Repository: Clone this repository to your local machine using:
+  ```bash
+  git clone https://github.com/your-username/medical-intent-detector.git
+  cd medical-intent-detector
