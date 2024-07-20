@@ -58,8 +58,8 @@ pip install seaborn
 
 ### Dependencies
 * Python 3.x
-`transformers` library by Hugging Face
-`torch` (PyTorch)
-`pandas`
-`scikit-learn`
-`seaborn`
+* `transformers` library by Hugging Face
+* `torch` (PyTorch)
+* `pandas`
+* `scikit-learn`
+* `seaborn`
